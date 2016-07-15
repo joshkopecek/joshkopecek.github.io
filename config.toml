@@ -3,6 +3,12 @@ languageCode = "en-gb"
 title = "Josh Kopeček"
 theme = "hugo-highlights-theme"
 
+contentdir = "content"
+layoutdir = "layouts"
+publishdir = "public"
+canonifyurls = true
+
+
 # Enter your tracking code to enable Google analytics
 googleAnalytics = ""
 
